@@ -83,6 +83,116 @@ ninja.data = [{
             window.location.href = "/blog_videcoding50days/blog/2025/plotly/";
           
         },
+      },{id: "post-cursor-vs-gemini-vs-claude-開發者的-ai-工具選擇難題",
+        
+          title: "Cursor vs Gemini vs Claude：開發者的 AI 工具選擇難題",
+        
+        description: "作為一個有 10 年經驗的開發者，我最近在思考明年到底要買 Cursor + Gemini + Claude，還是要做割捨省點錢。這篇文章記錄了我的思考過程。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog_videcoding50days/blog/2025/ai-coding-tools-comparison/";
+          
+        },
+      },{id: "post-產品思維如何改變我的開發方式",
+        
+          title: "產品思維如何改變我的開發方式",
+        
+        description: "10 年開發經驗讓我深刻體會到，擁有產品思維與設計思考能力，是讓程式碼從「能跑」到「好用」的關鍵轉折。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog_videcoding50days/blog/2025/product-thinking-in-development/";
+          
+        },
+      },{id: "post-10-年軟體開發之路-我學到的-10-件事",
+        
+          title: "10 年軟體開發之路：我學到的 10 件事",
+        
+        description: "回顧 10 年軟體規劃與設計經驗，分享我學到的最重要的 10 個教訓。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog_videcoding50days/blog/2025/10-years-of-software-development/";
+          
+        },
+      },{id: "post-開發者也需要設計思考",
+        
+          title: "開發者也需要設計思考",
+        
+        description: "設計思考不只是設計師的專利，開發者同樣可以從中獲益。分享如何將設計思考融入開發流程。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog_videcoding50days/blog/2025/design-thinking-for-developers/";
+          
+        },
+      },{id: "post-使用-cursor-進行-ai-輔助開發的實際體驗",
+        
+          title: "使用 Cursor 進行 AI 輔助開發的實際體驗",
+        
+        description: "分享使用 Cursor 作為主要開發工具的實際體驗，包括優點、缺點和使用技巧。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog_videcoding50days/blog/2025/cursor-ai-coding-experience/";
+          
+        },
+      },{id: "post-code-review-的最佳實踐-10-年經驗總結",
+        
+          title: "Code Review 的最佳實踐：10 年經驗總結",
+        
+        description: "分享 10 年開發經驗中，關於 Code Review 的最佳實踐和常見陷阱。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog_videcoding50days/blog/2025/code-review-best-practices/";
+          
+        },
+      },{id: "post-技術債管理-如何與技術債共存",
+        
+          title: "技術債管理：如何與技術債共存",
+        
+        description: "技術債是軟體開發中不可避免的問題，分享如何有效管理和償還技術債。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog_videcoding50days/blog/2025/technical-debt-management/";
+          
+        },
+      },{id: "post-開發者如何思考使用者體驗",
+        
+          title: "開發者如何思考使用者體驗",
+        
+        description: "分享開發者如何從技術實現轉向使用者體驗思考，以及實際的實踐方法。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog_videcoding50days/blog/2025/user-experience-in-development/";
+          
+        },
+      },{id: "post-測試策略-開發者如何寫出有效的測試",
+        
+          title: "測試策略：開發者如何寫出有效的測試",
+        
+        description: "分享 10 年開發經驗中，關於測試策略和測試寫法的心得。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog_videcoding50days/blog/2025/testing-strategy-for-developers/";
+          
+        },
+      },{id: "post-技術人的持續學習-如何在快速變化的環境中保持競爭力",
+        
+          title: "技術人的持續學習：如何在快速變化的環境中保持競爭力",
+        
+        description: "分享在技術快速變化的環境中，如何建立有效的學習策略和習慣。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog_videcoding50days/blog/2025/continuous-learning-in-tech/";
+          
+        },
       },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
